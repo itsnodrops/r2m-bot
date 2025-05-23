@@ -1,0 +1,10 @@
+{
+  "maxSwaps": {
+      "sepolia": 3,
+      "arbitrumSepolia": 15,
+      "plumeTestnet": 30,
+      "monadTestnet": 1,
+      "bscTestnet": 3,
+      "baseSepolia": 5
+  }
+}
